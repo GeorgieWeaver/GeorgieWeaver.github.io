@@ -1,9 +1,13 @@
 
-## Title
+### Georgie Weaver
 
-This is my website portfolio that I have created as part of my Core Programming for GIS module. 
+## CV
 
-#
+## Projects
 
+# Core Programming for GIS
+[Agent Based Modelling](georgieweaver.github.io/model)
+[Planning For Drunks](georgieweaver.github.io/drunks 
 
-[This is a link](www.google.com)
+# Professional and Personal Development
+[Personal Project](georgieweaver.github.io/ppdproject)
