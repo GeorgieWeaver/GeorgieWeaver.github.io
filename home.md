@@ -1,11 +1,11 @@
 
-Georgie Weaver
+##Georgie Weaver
 
 
-CV
+#CV
 
 
-Projects
+#Projects
 
 Core Programming for GIS
 
