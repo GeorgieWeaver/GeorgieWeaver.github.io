@@ -1,10 +1,14 @@
-Georgie Weaver
+## Georgie Weaver
 
 
-CV
+# Biography
 
+I am currently a studying for my Masters in Geographical Information Systems at the University of Leeds.
+My primary interests are in geodemographics, as well as data visualisation and spatial analysis. 
 
-Projects
+[CV](georgieweaver.github.io/cv)
+
+# Projects
 
 Core Programming for GIS
 
