@@ -10,10 +10,10 @@ www.linkedin.com/in/georginaweaver
 
 ### Education and Qualifications
 
-2017 – present		MSc Geographical Information Systems, University of Leeds
+2017 – present, MSc Geographical Information Systems, University of Leeds
 
 
-2014 – 2017		BA Geography (2:1), University of Leeds
+2014 – 2017, BA Geography (2:1), University of Leeds
 -	Geocomputation and Location Analysis = 66: creating an agent based model in NetLogo, and gaining experience in coding, and proficient use of Excel and MapInfo.
 
 
@@ -23,7 +23,7 @@ www.linkedin.com/in/georginaweaver
 -	Dissertation = 67: 10,000-word project, creating a geodemographic index to spatially analyse football supporters in London, involving heavy data collection and modification.
 
 
-2000 – 2014		A Levels, Bromley High School
+2000 – 2014, A Levels, Bromley High School
 
 
 -	3 A Levels, achieving A grade in Geography, History and English Literature.
@@ -77,8 +77,12 @@ Worked with CACI, carrying out an examination of websites of numerous outlet cen
 ### Interests
 
 −	Data and spatial analysis, being a member of the Leeds Data Science Society.
+
 −	Leadership skills, strengthened by membership in the Women in Leadership Society.
+
 −	Following my hometown local football team, Bromley FC.
+
 −	Swimming, being a regular member of the university gym.
+
 −	Travelling and seeing new places across the UK and the world.
 
