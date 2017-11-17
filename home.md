@@ -16,4 +16,6 @@ Core Programming for GIS
 [Planning For Drunks](georgieweaver.github.io/drunks)
 
 Professional and Personal Development
+
+
 [Personal Project](georgieweaver.github.io/ppdproject)
