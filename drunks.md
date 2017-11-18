@@ -1,4 +1,4 @@
-## Modelling for Drunks Project
+## Planning for Drunks Project
 
 
 For my personal project, I am going to create an agent-based model that models drunks within a town, showing where they walk home.
