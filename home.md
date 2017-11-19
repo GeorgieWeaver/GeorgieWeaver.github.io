@@ -1,6 +1,3 @@
-# Georgie Weaver
-
-
 ## Biography
 
 I am currently studying for my Masters in Geographical Information Systems at the University of Leeds, after completing my undergraduate studies in summer and graduating with a 2:1 in my Geography BA course.
