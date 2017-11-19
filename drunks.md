@@ -8,4 +8,4 @@ Within this built environment, the drunks will be coden in as agents, who walk a
 
 The model will then store how many drunks pass through each point within the environment. 
 
-An additional part of my model will be helping the drunks find their way home, and stopping them from retracing their steps. 
+An additional part of my model will be helping the drunks find their way home, and stopping them from retracing their steps.
