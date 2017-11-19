@@ -5,7 +5,7 @@
 
 I am currently studying for my Masters in Geographical Information Systems at the University of Leeds, after completing my undergraduate studies in summer and graduating with a 2:1 in my Geography BA course.
 
-My primary interests are in geodemographics, as well as data visualisation, and in retail and crime.
+My primary interests are in geodemographics, data visualisation, and in retail and crime.
 
 [CV](georgieweaver.github.io/cv)
 
