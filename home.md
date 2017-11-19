@@ -13,7 +13,7 @@ I am currently a student at the University of Leeds, studying for my Masters in 
 ### Core Programming for GIS
 
 
-[Agent Based Modelling](georgieweaver.github.io/model)
+[Agent Based Modelling](georgieweaver.github.io/model) :camel:
 
 
 [Planning For Drunks](georgieweaver.github.io/drunks)
