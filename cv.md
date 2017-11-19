@@ -10,7 +10,7 @@
 -	Research Placement = 68: working with an academic tutor to analyse the geographical distribution of Woolworth stores, using heavy amounts of data and spatial analysis.
 
 
--	Dissertation = 67: 10,000-word project, creating a geodemographic index to spatially analyse football supporters in London, involving heavy data collection and modification. Read [here]((https://github.com/georgieweaver/Undergraduate-Dissertation)
+-	Dissertation = 67: 10,000-word project, creating a geodemographic index to spatially analyse football supporters in London, involving heavy data collection and modification. Read [here](https://github.com/georgieweaver/Undergraduate-Dissertation)
 
 
 2000 – 2014, A Levels, Bromley High School
