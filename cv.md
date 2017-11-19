@@ -1,13 +1,3 @@
-GEORGINA WEAVER
-
-
-gy14gw@leeds.ac.uk
-
-
-www.linkedin.com/in/georginaweaver
-
-
-
 ### Education and Qualifications
 
 2017 – present, MSc Geographical Information Systems, University of Leeds
