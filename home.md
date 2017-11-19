@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently studying for my Masters in Geographical Information Systems at the University of Leeds, after completing my undergraduate studies in summer and graduating with a 2:1 in my Geography BA course.
+I am currently a student at the University of Leeds, studying for my Masters in Geographical Information System. This summer, I graduated from Leeds with a 2:1 after after completing my Geography BA. 
 
 My primary interests are in geodemographics, data visualisation, and in retail and crime.
 
