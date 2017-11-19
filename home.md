@@ -8,6 +8,10 @@ My primary interests are in geodemographics, as well as data visualisation and s
 
 [CV](georgieweaver.github.io/cv)
 
+[Twitter](https://twitter.com/GWeaverGIS)
+
+[LinkedIn](https://www.linkedin.com/in/georginaweaver/)
+
 ## Projects
 
 ### Core Programming for GIS
