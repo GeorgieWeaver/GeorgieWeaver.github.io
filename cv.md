@@ -1,6 +1,12 @@
 ### Education and Qualifications
 
-2017 – present, MSc Geographical Information Systems, University of Leeds
+2017 – present		MSc Geographical Information Systems, University of Leeds
+-	Data Visualisation and Analysis: working with ArcGIS to explore the various tools that are provided and the analysis that can be carried out, creating maps and visualisations.
+
+
+
+-	Core Programming for GIS: learning the Python programming language, and gaining an understanding of how computer coding can be used with data analysis.
+
 
 
 2014 – 2017, BA Geography (2:1), University of Leeds
@@ -26,6 +32,12 @@
 
 
 ### Work Experience 
+
+Boots Christmas Customer Assistant, October 2017 – December 2017
+
+
+Worked on the shop floor, helping customers with any queries, as well as serving on the tills and helping the operations department with the stock. This lead me to understand how the retail market works at a local level, and learning how retail companies respond to changes and trends within this sector. This work has also enhanced my confidence in talking to a range of people. 
+
 
 CACI International Data Project Intern, February 2017
 
