@@ -36,13 +36,13 @@
 Boots Christmas Customer Assistant, October 2017 – December 2017
 
 
-Worked on the shop floor, helping customers with any queries, as well as serving on the tills and helping the operations department with the stock. This lead me to understand how the retail market works at a local level, and learning how retail companies respond to changes and trends within this sector. This work has also enhanced my confidence in talking to a range of people. 
+Worked on the shop floor, helping customers with any queries, as well as serving on the tills and helping the operations department with the stock. This lead me to understand how the retail market works at a local level, and learning how companies respond to changes and trends within this sector. This work has also enhanced my confidence in talking to a range of people. 
 
 
 CACI International Data Project Intern, February 2017
 
 
-Worked with CACI, carrying out an examination of websites of numerous outlet centres across Europe to update their brand list for existing and new centres. This contributed to an international project in scoring the attractiveness of retail outlets in a gravity model. Working on this project enhanced my research skills, whilst helping me to gain experience in the spatial retail sector. 
+Worked with CACI, carrying out an examination of websites of numerous outlet centres across Europe to update their brand list for existing and new retail centres. This contributed to an international project they were working on in scoring the attractiveness of retail outlets within a gravity model. Working on this project enhanced my research skills, whilst helping me to gain experience in the spatial retail sector. 
 
 
 
