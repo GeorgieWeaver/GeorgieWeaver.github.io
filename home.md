@@ -5,9 +5,7 @@ I am currently a student at the University of Leeds, studying for my MSc in Geog
 
 :earth_africa:
 
-
 :earth_americas:
-
 
 :earth_asia:
 
