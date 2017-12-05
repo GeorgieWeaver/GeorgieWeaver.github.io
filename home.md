@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a student at the University of Leeds, studying for my MSc in Geographical Information Systems. This summer, I graduated from Leeds with a 2:1 after after completing my Geography BA. My interests are in geodemographics, data visualisation, and in retail and crime.
+I am currently a student at the University of Leeds, studying for my MSc in Geographical Information Systems. This summer, I graduated from Leeds with a 2:1 after after completing my Geography BA. My interests are in geodemographics, data visualisation, and retail.
 
 [CV](georgieweaver.github.io/cv)
 
