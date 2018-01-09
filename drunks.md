@@ -10,4 +10,4 @@ The model will then store how many drunks pass through each point within the env
 
 An additional part of my model will be helping the drunks find their way home, and stopping them from retracing their steps.
 
-To view the code created for this project, please visit my [Github repository](github.com/GeorgieWeaver/Planning-For-Drunks)
+To view the code created for this project, please visit my [Github repository](https://github.com/GeorgieWeaver/Planning-For-Drunks)
