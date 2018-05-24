@@ -16,7 +16,7 @@
 -	Research Placement = 68: working with an academic tutor to analyse the geographical distribution of Woolworth stores, using heavy amounts of data and spatial analysis.
 
 
--	Dissertation = 67: 10,000-word project, creating a geodemographic index to spatially analyse football supporters in London, involving heavy data collection and modification. Read [here](https://github.com/GeorgieWeaver/Undergraduate-Dissertation/blob/master/Undergraduate%20Dissertation.pdf)
+-	Dissertation = 67: 10,000 word project, creating a geodemographic index to spatially analyse football supporters in London, involving heavy data collection and modification. Read [here](https://github.com/GeorgieWeaver/Undergraduate-Dissertation/blob/master/Undergraduate%20Dissertation.pdf)
 
 
 2000 – 2014, A Levels, Bromley High School
@@ -28,7 +28,7 @@
 -	3 additional AS Levels, achieving A in Mathematics and Critical Thinking and A* in EPQ.
 
 
--	10 GCSES, with 7A*s and 3As, including an A* in Maths and A in English Language.
+-	10 GCSES, with 7A*s and 3As, including in Maths and English Language.
 
 
 ### Work Experience 
